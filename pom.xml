@@ -548,12 +548,12 @@
         <repository>
             <id>maven-releases</id>
             <!-- CHANGE HERE by your team Nexus server -->
-            <url>http://3.80.206.161:8081/repository/maven-releases/</url>
+            <url>http://44.204.161.43:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
             <!-- CHANGE HERE by your team Nexus server -->
-            <url>http://3.80.206.161:8081/repository/maven-releases/</url>
+            <url>http://44.204.161.43:8081/repository/maven-releases/</url>
         </snapshotRepository>
     </distributionManagement>
     <repositories>
@@ -565,7 +565,7 @@
         <repository>
             <id>maven-releases</id>
             <name>maven-releases</name>
-            <url>http://3.80.206.161:8081/repository/maven-releases/</url>
+            <url>http://44.204.161.43:8081/repository/maven-releases/</url>
         </repository>
     </repositories>
 </project>
